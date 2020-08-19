@@ -1,0 +1,8 @@
+CREATE TABLE ipcalcDef1(
+id INTEGER NOT NULL,
+ipv6IN VARCHAR (50),
+ipv6OUT VARCHAR (90),
+mask VARCHAR (20),
+tipo VARCHAR (90),
+clase VARCHAR (70)
+);
